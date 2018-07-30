@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 293e33966f4d17a46b00e317ce19894f
+timeCreated: 1469447872
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stone Tiles Sprites_0
+    21300002: Stone Tiles Sprites_1
+    21300004: Stone Tiles Sprites_2
+    21300006: Stone Tiles Sprites_3
+    21300008: Stone Tiles Sprites_4
+    21300010: Stone Tiles Sprites_5
+    21300012: Stone Tiles Sprites_6
+    21300014: Stone Tiles Sprites_7
+    21300016: Stone Tiles Sprites_8
+    21300018: Stone Tiles Sprites_9
+    21300020: Stone Tiles Sprites_10
+    21300022: Stone Tiles Sprites_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stone Tiles Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 445
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 358
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 116
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 148
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+    - name: Stone Tiles Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 13
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 208
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 55
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 147
+        width: 9
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 146
+        width: 272
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone Tiles Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 275
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
